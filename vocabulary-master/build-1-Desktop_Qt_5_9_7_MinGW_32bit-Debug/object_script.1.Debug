@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\attribute.o
+./debug\modify.o
+./debug\mywindow.o
+./debug\mywidget.o
+./debug\mydialog.o
+./debug\qrc_resource.o
+./debug\moc_mainwindow.o
+./debug\moc_attribute.o
+./debug\moc_modify.o
+./debug\moc_mywindow.o
+./debug\moc_mywidget.o
+./debug\moc_mydialog.o
+);
